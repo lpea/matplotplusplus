@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.15)
 project(matplotplusplus)
 
 # https://cliutils.gitlab.io/modern-cmake/chapters/basics/variables.html

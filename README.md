@@ -1360,7 +1360,7 @@ If you are interested in understanding how the library works, you can read the d
 
 ### CMake (manual download)
 
-Check if you have [Cmake](http://cmake.org) 3.14+ installed:
+Check if you have [Cmake](http://cmake.org) 3.15+ installed:
 
 ```bash
 cmake -version
@@ -1387,7 +1387,7 @@ Add this header to your source files:
 
 ### CMake (automatic download)
 
-Check if you have [Cmake](http://cmake.org) 3.14+ installed:
+Check if you have [Cmake](http://cmake.org) 3.15+ installed:
 
 ```bash
 cmake -version
